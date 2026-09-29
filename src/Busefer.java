@@ -1,6 +1,6 @@
 // TODO: we need to add the missing classes!
 
-         // OK, I will add ‘Addesr‘ and s35592 will add ‘Subtractor‘.
+         // OK, I will add ‘Addessr‘ and s35592 will add ‘Subtractor‘.
 
 
          public class Main {
